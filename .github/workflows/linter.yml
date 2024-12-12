@@ -1,0 +1,17 @@
+name: Linter
+
+on: [push, pull_request]
+
+jobs:
+  linter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Run awesome-lint
+        run: npx awesome-lint
+
+      - name: Check README.md with Prettier
+        run: npx prettier --check README.md
