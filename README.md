@@ -31,6 +31,8 @@
 ## Web Technologies
 
 - [IETF RFCs](https://www.ietf.org/standards/rfcs/) - Publication in a series from the principal technical development and standards-setting bodies for the Internet, most prominently the IETF.
+- [BCPs](https://www.rfc-editor.org/rfc/bcp/bcp-index.txt) - Best Current Practice, sub-series of the RFC document series.
+- [ECMA International Standards](https://www.ecma-international.org/publications-and-standards/standards/) - Standards for information and communication systems.
 - [W3C](https://www.w3.org/TR/) - W3C publishes a range of technical reports (Standards and supporting Notes) which help move the web forward.
 - [W3C WAI](https://www.w3.org/WAI/) - Strategies, standards, and supporting resources to help you make the Web more accessible to people with disabilities.
 - [WHATWG](https://whatwg.org/) - Web Hypertext Application Technology Working Group, founded by individuals of leading Web browser vendors.
@@ -39,7 +41,7 @@
 
 ## Programming Languages
 
-- [ECMA International Standards](https://www.ecma-international.org/publications-and-standards/standards/) - Home to ECMAScript and other communication standards, better known for its standards for languages including EcmaScript (ECMA-262).
+- [ECMAScript Proposals](https://github.com/tc39/proposals) - Ecma TC39 (Technical Committee 39) is responsible for evolving the ECMAScript programming language and authoring the specification.
 - [PEPs](https://peps.python.org/) - Python Enhancement Proposals for language improvements.
 - [PHP FIG](https://www.php-fig.org/) - Standards proposed and approved by PHP Framework Interop Group.
 - [Rust RFCs](https://rust-lang.github.io/rfcs/) - Proposals to evolve the Rust language.
@@ -52,12 +54,18 @@
 - [Java SE Specs](https://docs.oracle.com/javase/specs/) - Java Language and JVM specifications for Java by Oracle.
 - [Go Proposals](https://github.com/golang/proposal) - Design discussions for Go language evolution.
 - [GoLang Spec](https://go.dev/ref/spec) - The Go Programming Language Specification.
+- [Dart Design](https://github.com/dart-lang/language) - Design of the Dart language.
 - [C# Design](https://github.com/dotnet/csharplang) - C# Language Design Proposals.
 - [F# Design](https://github.com/fsharp/fslang-design) - F# Language Design RFCs.
 - [Zig Proposals](https://github.com/ziglang/zig/issues?q=is:issue+is:open+label:proposal) - Issues with Proposal label in Zig repository.
 - [C Standards](https://www.open-std.org/jtc1/sc22/wg14/www/projects) - ISO/IEC standards for the C programming language.
 - [C++ Standards](https://www.open-std.org/jtc1/sc22/wg21/) - ISO/IEC standards for C++.
 - [CEPs](https://github.com/coq/ceps) - Coq Enhancement Proposals.
+- [SRFI](https://srfi.schemers.org/) - Scheme Requests for Implementation.
+- [Scheme Standards](https://standards.scheme.org/) - Revised Report on Scheme and other standards.
+- [CDR](https://cdr.common-lisp.dev/) - Common Lisp Document Repository.
+- [PPCs](https://github.com/Perl/PPCs) - Proposed Perl Changes is proposals to change the Perl language.
+- [DIPs](https://github.com/dlang/DIPs) - D language Improvement Proposals.
 
 ## Tools
 
@@ -81,6 +89,15 @@
 - [OTEPs](https://github.com/open-telemetry/opentelemetry-specification/tree/main/oteps/) - OpenTelemetry Enhancement Proposals.
 - [GIPs](https://godot-proposals-viewer.github.io/) - Godot (Multi-platform 2D and 3D game engine) Improvement Proposals.
 - [Bazel Proposals](https://github.com/bazelbuild/proposals) - Bazel proposals and design documents.
+- [Conventional Commits](https://www.conventionalcommits.org/) - A specification for adding human and machine readable meaning to commit messages.
+- [Compose Specification](https://github.com/compose-spec/compose-spec) - The Compose Specification is developer focused for defining cloud and platform agnostic container-based applications.
+- [Fluent Specs](https://github.com/projectfluent/fluent) - This repository contains the specification, the reference implementation of the parser and the documentation for Fluent.
+- [\[x\]it!](https://xit.jotaen.net/) - A plain-text file format for todos and check lists.
+- [SPDX Spec](https://spdx.github.io/spdx-spec/) - The System Package Data Exchange Specification.
+- [HeadVer Spec](https://github.com/line/headver) - SemVer compatible version specification that has {head}.{yearweek}.{build} system.
+- [SemVer Spec](https://semver.org/) - Semantic Versioning Specification.
+- [CalVer Spec](https://calver.org/) - Calendar Versioning Specification.
+- [OpenAutoComplete Spec](https://github.com/openautocomplete/openautocomplete) - CLI autocomplete specification.
 
 ## Decentralized Systems
 
