@@ -159,7 +159,7 @@
 - [BS](https://www.bsigroup.com/) - **British Standards**: Standards published by the BSI Group, the UK's National Standards Body (NSB). They provide guidelines for quality, safety, and sustainability across various sectors.
 - [CEN](https://www.cencenelec.eu/) - **European Committee for Standardization**: Develops European Standards (ENs) to harmonize technical specifications and promote trade across Europe.
 - [DIN](https://www.din.de/) - **Deutsches Institut für Normung**: German Institute for Standardization, which develops national and international standards for a wide range of industries.
-- [AFNOR](https://www.afnor.org/) - **Association française de normalisation**: France's National Standardization Office 
+- [AFNOR](https://www.afnor.org/) - **Association française de normalisation**: France's National Standardization Office.
 - [NSAI](https://www.nsai.ie/) - **National Standards Authority of Ireland**: Ireland's official standards body.
 - [CSA Group](https://www.csagroup.org/) - **Canadian Standards Association**: Develops standards to address safety, sustainability, and performance for Canada and global markets.
 - [SII](https://www.sii.org.il/eng/) - **Standards Institution of Israel**: National body for standards and certification.
