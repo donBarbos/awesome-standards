@@ -17,6 +17,7 @@
 ## Contents
 
 - [Web Technologies](#web-technologies)
+- [APIs](#apis)
 - [Programming Languages](#programming-languages)
 - [Tools](#tools)
 - [Decentralized Systems](#decentralized-systems)
@@ -37,7 +38,30 @@
 - [W3C WAI](https://www.w3.org/WAI/) - Strategies, standards, and supporting resources to help you make the Web more accessible to people with disabilities.
 - [WHATWG](https://whatwg.org/) - Web Hypertext Application Technology Working Group, founded by individuals of leading Web browser vendors.
 - [Unicode Standards](https://www.unicode.org/reports/) - Text encoding standard maintained by the Unicode Consortium.
-- [JSON:API Spec](https://jsonapi.org/) - A specification for building APIs in JSON.
+
+## APIs
+
+- [GraphQL Spec](https://spec.graphql.org/) - Specification for GraphQL, a query language and execution engine.
+- [Protobuf Spec](https://protobuf.dev/reference/protobuf/) - Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data.
+- [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
+- [XML-RPC](https://xmlrpc.com/spec.md) - Remote procedure call protocol which uses XML to encode its calls and HTTP as a transport mechanism.
+- [JSON-RPC](https://www.jsonrpc.org/specification) - Stateless, light-weight remote procedure call protocol.
+- [OpenRPC Spec](https://spec.open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+- [OpenAPI Spec](https://spec.openapis.org/) - The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs.
+- [API Blueprint Spec](https://apiblueprint.org/documentation/specification.html) - A markdown-based language for describing APIs with interactive documentation support.
+- [AsyncAPI Spec](https://www.asyncapi.com/docs/reference/specification/latest) - This specification allows you to create machine-readable definitions of your asynchronous APIs.
+- [OpenMessaging Spec](https://github.com/openmessaging/specification) - Vendor-neutral and language-independent, aimed to develop messaging and streaming applications across heterogeneous systems.
+- [CloudEvents Spec](https://github.com/cloudevents/spec) - A specification for describing event data in a common way.
+- [HATEOAS](https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-11) - Hypermedia as the engine of application state is a constraint of the REST software architectural style.
+- [HAL](https://stateless.group/hal_specification.html) - Convention for defining hypermedia such as links to external resources within JSON or XML code.
+- [JSON:API](https://jsonapi.org/) - A specification for building APIs in JSON, defines links and actions.
+- [JSON-LD](https://json-ld.org/) - JSON for Linked Data is a standard for hyperlinks in JSON, does not address actions.
+- [Hydra](https://www.hydra-cg.com/spec/) - Builds on top of JSON-LD to add definition of actions.
+- [Siren](https://github.com/kevinswiber/siren) - Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.
+- [Collection+JSON](https://github.com/collection-json/spec) - JSON-based read/write hypermedia-type designed, defines links and actions.
+- [Odata](https://www.odata.org/documentation/) - A protocol for querying and updating data using RESTful APIs, with rich query capabilities.
+- [Zalando RESTful Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - A model set of guidelines for RESTful APIs and Events, created by Zalando.
+- [JSEND](https://github.com/omniti-labs/jsend) - Specification for a simple, no-frills, JSON based format for application-level communication.
 
 ## Programming Languages
 
@@ -143,6 +167,7 @@
 - [OVF (Open Virtualization Format)](https://www.dmtf.org/standards/ovf) - OS images for virtualized environments.
 - [KVM (Kernel-based Virtual Machine)](https://public.dhe.ibm.com/software/dw/linux390/perf/ZSW03346USEN.pdf) - OS-level virtualization in Linux.
 - [OCI (Open Container Initiative)](https://opencontainers.org/release-notices/overview/) - Standards for OS containers like Docker.
+- [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html) - D-Bus Specification.
 
 ## Electronics and Hardware
 
