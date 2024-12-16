@@ -60,8 +60,12 @@
 - [Siren](https://github.com/kevinswiber/siren) - Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.
 - [Collection+JSON](https://github.com/collection-json/spec) - JSON-based read/write hypermedia-type designed, defines links and actions.
 - [Odata](https://www.odata.org/documentation/) - A protocol for querying and updating data using RESTful APIs, with rich query capabilities.
-- [Zalando RESTful Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - A model set of guidelines for RESTful APIs and Events, created by Zalando.
 - [JSEND](https://github.com/omniti-labs/jsend) - Specification for a simple, no-frills, JSON based format for application-level communication.
+- [Google API Design Guide](https://cloud.google.com/apis/design) - A general design guide for networked APIs provided by Google.
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) - Repository contains a collection of documents and related materials.
+- [Zalando RESTful Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - A model set of guidelines for RESTful APIs and Events, created by Zalando.
+- [API Stylebook](https://apistylebook.com/) - Collections of resources for API Design from other companies guidelines.
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures.
 
 ## Programming Languages
 
@@ -85,11 +89,13 @@
 - [C Standards](https://www.open-std.org/jtc1/sc22/wg14/www/projects) - ISO/IEC standards for the C programming language.
 - [C++ Standards](https://www.open-std.org/jtc1/sc22/wg21/) - ISO/IEC standards for C++.
 - [CEPs](https://github.com/coq/ceps) - Coq Enhancement Proposals.
+- [OCaml RFCs](https://github.com/ocaml/RFCs) - Design discussions about the OCaml language.
 - [SRFI](https://srfi.schemers.org/) - Scheme Requests for Implementation.
 - [Scheme Standards](https://standards.scheme.org/) - Revised Report on Scheme and other standards.
 - [CDR](https://cdr.common-lisp.dev/) - Common Lisp Document Repository.
 - [PPCs](https://github.com/Perl/PPCs) - Proposed Perl Changes is proposals to change the Perl language.
 - [DIPs](https://github.com/dlang/DIPs) - D language Improvement Proposals.
+- [GEPs](https://groovy.apache.org/wiki/geps.html) - Groovy Enhancement Proposals and Issues tracked in Jira.
 
 ## Tools
 
