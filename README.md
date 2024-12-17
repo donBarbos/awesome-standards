@@ -1,17 +1,12 @@
-<!--lint disable double-link-->
-
+<!--lint disable awesome-heading-->
 <div align="center">
-
-# Awesome Standards
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub contributors](https://img.shields.io/github/contributors/donbarbos/awesome-standards)](https://github.com/donBarbos/awesome-standards/graphs/contributors)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![URLs status](https://github.com/donBarbos/awesome-standards/actions/workflows/urls.yml/badge.svg)](https://github.com/donBarbos/awesome-standards/actions/workflows/urls.yml)
-[![Linter status](https://github.com/donBarbos/awesome-standards/actions/workflows/linter.yml/badge.svg)](https://github.com/donBarbos/awesome-standards/actions/workflows/linter.yml)
-
-> A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else.
-
+  <h1>Awesome Standards</h1>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/donBarbos/awesome-standards/graphs/contributors"><img src="https://img.shields.io/github/contributors/donbarbos/awesome-standards" alt="GitHub contributors" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome" /></a>
+  <a href="https://github.com/donBarbos/awesome-standards/actions/workflows/urls.yml"><img src="https://github.com/donBarbos/awesome-standards/actions/workflows/urls.yml/badge.svg" alt="URLs status" /></a>
+  <a href="https://github.com/donBarbos/awesome-standards/actions/workflows/linter.yml"><img src="https://github.com/donBarbos/awesome-standards/actions/workflows/linter.yml/badge.svg" alt="Linter status" /></a>
+  <blockquote>A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else.</blockquote>
 </div>
 
 ## Contents
