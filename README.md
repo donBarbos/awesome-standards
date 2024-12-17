@@ -28,6 +28,7 @@
 - [Telecommunications](#telecommunications)
 - [General](#general)
 - [Region Specific](#region-specific)
+- [Related Awesome Lists](#related-awesome-lists)
 
 ## Web Technologies
 
@@ -46,9 +47,13 @@
 - [gRPC](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md) - This document serves as a detailed description for an implementation of gRPC carried over HTTP2 framing.
 - [XML-RPC](https://xmlrpc.com/spec.md) - Remote procedure call protocol which uses XML to encode its calls and HTTP as a transport mechanism.
 - [JSON-RPC](https://www.jsonrpc.org/specification) - Stateless, light-weight remote procedure call protocol.
+- [Apache Avro](https://avro.apache.org/docs/++version++/specification/) - Serialization format for record data, and first choice for streaming data pipelines.
+- [Apache Thrift](https://github.com/apache/thrift/tree/master/doc/specs) - Interface Definition Language and binary communication protocol used for defining and creating services for programming languages.
 - [OpenRPC Spec](https://spec.open-rpc.org/) - The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
 - [OpenAPI Spec](https://spec.openapis.org/) - The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to HTTP APIs.
-- [API Blueprint Spec](https://apiblueprint.org/documentation/specification.html) - A markdown-based language for describing APIs with interactive documentation support.
+- [API Blueprint Spec](https://apiblueprint.org/documentation/specification.html) - A markdown based language for describing APIs with interactive documentation support.
+- [RAML Spec](https://github.com/raml-org/raml-spec) - RESTful API Modeling Language is a YAML based language for describing static APIs (but not REST APIs).
+- [JSON Schema](https://json-schema.org/specification) - Standard providing a format for what JSON data is required for a given application and how to interact with it.
 - [AsyncAPI Spec](https://www.asyncapi.com/docs/reference/specification/latest) - This specification allows you to create machine-readable definitions of your asynchronous APIs.
 - [OpenMessaging Spec](https://github.com/openmessaging/specification) - Vendor-neutral and language-independent, aimed to develop messaging and streaming applications across heterogeneous systems.
 - [CloudEvents Spec](https://github.com/cloudevents/spec) - A specification for describing event data in a common way.
@@ -56,6 +61,7 @@
 - [HAL](https://stateless.group/hal_specification.html) - Convention for defining hypermedia such as links to external resources within JSON or XML code.
 - [JSON:API](https://jsonapi.org/) - A specification for building APIs in JSON, defines links and actions.
 - [JSON-LD](https://json-ld.org/) - JSON for Linked Data is a standard for hyperlinks in JSON, does not address actions.
+- [Ion](https://ionspec.org/) - Simple and intuitive JSON-based hypermedia type for REST.
 - [Hydra](https://www.hydra-cg.com/spec/) - Builds on top of JSON-LD to add definition of actions.
 - [Siren](https://github.com/kevinswiber/siren) - Structured Interface for Representing Entities, super-rad hypermedia, defines links and actions.
 - [Collection+JSON](https://github.com/collection-json/spec) - JSON-based read/write hypermedia-type designed, defines links and actions.
@@ -141,9 +147,10 @@
 - [SLIPs](https://github.com/satoshilabs/slips) - SatoshiLabs Improvement Proposals.
 - [YIPs](https://yips.yearn.fi/) - Yearn Finance Improvement Proposals.
 - [AIPs](https://github.com/aave/aip) - Aave Improvement Proposals.
+- [Optimism Specs](https://specs.optimism.io/) - Optimism Stack Specifications.
 - [PIPs](https://github.com/maticnetwork/Polygon-Improvement-Proposals) - Polygon Improvement Proposals.
 - [SIPs](https://sips.synthetix.io/) - Synthetix Improvement Proposals.
-- [IPIP](https://specs.ipfs.tech/) - InterPlanetary Improvement Proposals, technical specifications for the IPFS protocol stack.
+- [Fuel Specs](https://docs.fuel.network/docs/specs/) - Specifications for the Fuel protocol and the FuelVM.
 - [Filecoin Specs](https://spec.filecoin.io/) - Filecoin protocol specification.
 - [CAIPs](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals.
 - [AIPs](https://governance.aptosfoundation.org/) - Aptos Improvement Proposals.
@@ -151,6 +158,10 @@
 - [MIPs](https://github.com/makerdao/mips) - Maker Improvement Proposals.
 - [SNIPs](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals.
 - [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs) - Proposals, standards and documentations related to Nervos Network.
+- [IPIP](https://specs.ipfs.tech/) - InterPlanetary Improvement Proposals, technical specifications for the IPFS protocol stack.
+- [Tor Specs](https://spec.torproject.org/) - Tor Specifications including proposals.
+- [I2P Specs](https://geti2p.net/spec) - I2P Specification Documents including proposals.
+- [LibP2P Specs](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack.
 
 ## Cybersecurity and Cryptography
 
@@ -223,3 +234,8 @@
 - [BIS](https://www.bis.gov.in/) - **Bureau of Indian Standards**: National standards for industry, products, and services.
 - [PSQCA](https://www.psqca.com.pk/) - **Pakistan Standards and Quality Control Authority**: Organization responsible for developing and certifying standards.
 - [TIS](https://www.tisi.go.th/home/en) - **Thai Industrial Standards**: National standards for Thailand.
+
+## Related Awesome Lists
+
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - Coding style conventions and standards.
+- [Awesome API Devtools](https://github.com/yosriady/awesome-api-devtools) - A collection of useful resources for building RESTful HTTP+JSON APIs.
