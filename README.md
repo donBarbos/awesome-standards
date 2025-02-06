@@ -32,6 +32,8 @@
 - [W3C WAI](https://www.w3.org/WAI/) - Strategies, standards, and supporting resources to help you make the Web more accessible to people with disabilities.
 - [WHATWG](https://whatwg.org/) - Web Hypertext Application Technology Working Group, founded by individuals of leading Web browser vendors.
 - [Unicode Standards](https://www.unicode.org/reports/) - Text encoding standard maintained by the Unicode Consortium.
+- [OASIS Open](https://www.oasis-open.org/standards/) - Standards by nonprofit consortium that works to develop both open standards and open source.
+- [OpenID Specifications](https://openid.net/developers/specs/) - Identity standards, the most famous of which is the most famous of which is the decentralized authentication protocol OpenID Connect.
 
 ## APIs
 
